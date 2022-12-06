@@ -1,1 +1,0 @@
-select * from questions where answer_id = 1 and id = 1;
